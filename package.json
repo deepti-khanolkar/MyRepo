@@ -1,0 +1,14 @@
+{
+  "name": "MyRepo",
+  "version": "0.1.0",
+  "description": "My Repo for the trello",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "EDA",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
